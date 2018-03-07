@@ -1,5 +1,6 @@
 <?php
-class News extends CI_Controller {
+class News extends CI_Controller
+{
 
 // The __construct() method: it calls the constructor of its parent class (CI_Controller) and loads the model,
 // so it can be used in all other methods in this controller.
@@ -20,6 +21,12 @@ class News extends CI_Controller {
     public function index()
     {
         $data['news'] = $this->news_model->get_news();
+
+        $data['title'] = 'News archive';
+
+        $this->load->view('templates/header', $data);
+        $this->load->view('news/index', $data);
+        $this->load->view('templates/footer');
     }
 
     public function view($slug = NULL)
