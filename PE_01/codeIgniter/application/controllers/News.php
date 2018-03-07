@@ -28,9 +28,26 @@ class News extends CI_Controller
         $this->load->view('news/index', $data);
         $this->load->view('templates/footer');
     }
+//The code above gets all news records from the model and assigns it to a variable.
+// The value for the title is also assigned to the $data['title'] element and all data is passed to the views.
 
+
+//Instead of calling the get_news() method without a parameter, the $slug variable is passed,
+//so it will return the specific news item.
+// The only things left to do is create the corresponding view at application/views/news/view.php.
     public function view($slug = NULL)
     {
         $data['news_item'] = $this->news_model->get_news($slug);
+
+        if (empty($data['news_item']))
+        {
+            show_404();
+        }
+
+        $data['title'] = $data['news_item']['title'];
+
+        $this->load->view('templates/header', $data);
+        $this->load->view('news/view', $data);
+        $this->load->view('templates/footer');
     }
 }
