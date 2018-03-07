@@ -69,8 +69,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 //Now visit index.php/about. Did it get routed correctly to the view() method in the pages controller? Awesome!
 //$route['(:any)'] = 'pages/view/$1';
 
-//Update after creatin the News site:
+//Update after creating the News site:
 
+//$route['news/(:any)'] = 'news/view/$1';
+//$route['news'] = 'news';
+//$route['(:any)'] = 'pages/view/$1';
+//$route['default_controller'] = 'pages/view';
+
+//Update after learning how to create new items in the database:
+
+$route['news/create'] = 'news/create';
 $route['news/(:any)'] = 'news/view/$1';
 $route['news'] = 'news';
 $route['(:any)'] = 'pages/view/$1';
