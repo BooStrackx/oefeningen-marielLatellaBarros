@@ -49,6 +49,36 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['default_controller'] = 'welcome';
+//$route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
+
+//Using custom routing rules, you have the power to map any URI to any controller and method,
+// and break free from the normal convention:
+// http://example.com/[controller-class]/[controller-method]/[arguments]
+
+//CodeIgniter reads its routing rules from top to bottom and routes the request to the first matching rule.
+// Each rule is a regular expression (left-side) mapped to a controller and method name separated by slashes (right-side).
+// When a request comes in, CodeIgniter looks for the first match, and calls the appropriate controller and method,
+// possibly with arguments.
+$route['default_controller'] = 'pages/view';
+
+//Here, the second rule in the $routes array matches any request using the wildcard string (:any).,
+// and passes the parameter to the view() method of the Pages class.
+//Now visit index.php/about. Did it get routed correctly to the view() method in the pages controller? Awesome!
+//$route['(:any)'] = 'pages/view/$1';
+
+//Update after creating the News site:
+
+//$route['news/(:any)'] = 'news/view/$1';
+//$route['news'] = 'news';
+//$route['(:any)'] = 'pages/view/$1';
+//$route['default_controller'] = 'pages/view';
+
+//Update after learning how to create new items in the database:
+
+$route['news/create'] = 'news/create';
+$route['news/(:any)'] = 'news/view/$1';
+$route['news'] = 'news';
+
