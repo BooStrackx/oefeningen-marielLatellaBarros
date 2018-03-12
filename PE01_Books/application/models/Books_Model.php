@@ -6,7 +6,7 @@ class Books_Model extends CI_Model {
         $this->load->database();
     }
 
-    public function get_news($id = FALSE)
+    public function get_books($id = FALSE)
     {
         if ($id === FALSE)
         {
@@ -19,7 +19,6 @@ class Books_Model extends CI_Model {
     }
 
 
-//  Inserts new items into the database
     public function set_books()
     {
         $data = array(

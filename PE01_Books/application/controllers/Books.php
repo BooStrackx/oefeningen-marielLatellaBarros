@@ -10,7 +10,7 @@ class Books extends CI_Controller
 
     public function index()
     {
-        $data['Books'] = $this->Books_Model->get_news();
+        $data['Books'] = $this->Books_Model->get_books();
 
         $data['titleHeader'] = 'Books Inventory';
         $this->load->view('books/index', $data); //in the index all the data shows
@@ -19,7 +19,7 @@ class Books extends CI_Controller
 
     public function view($id = NULL)
     {
-        $data['books_item'] = $this->Books_Model->get_news($id);
+        $data['books_item'] = $this->Books_Model->get_books($id);
 
         if (empty($data['books_item'])) {
             show_404();
