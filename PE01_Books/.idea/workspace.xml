@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="568609a7-6894-490d-bce8-7e1c36200d88" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/vagrant_PE01_Books.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/../.idea/php.xml" afterPath="$PROJECT_DIR$/../.idea/php.xml" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/.idea/CodeIgniter.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/cache/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/autoload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/config.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/constants.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/database.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/doctypes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/foreign_chars.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/hooks.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/memcached.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/migration.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/mimes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/profiler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/routes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/smileys.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/config/user_agents.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/controllers/News.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/controllers/Pages.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/controllers/Welcome.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/controllers/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/core/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/helpers/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/hooks/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/language/english/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/language/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/libraries/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/logs/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/models/News_model.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/models/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/third_party/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/cli/error_404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/cli/error_db.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/cli/error_exception.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/cli/error_general.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/cli/error_php.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/cli/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/html/error_404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/html/error_db.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/html/error_exception.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/html/error_general.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/html/error_php.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/html/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/errors/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/news/create.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/news/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/news/success.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/pages/about.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/pages/home.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/templates/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/templates/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/application/views/welcome_message.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/contributing.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/readme.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Benchmark.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/CodeIgniter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Common.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Config.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Controller.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Exceptions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Hooks.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Input.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Loader.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Log.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Model.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Output.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Router.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Security.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/URI.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/Utf8.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/compat/hash.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/compat/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/compat/mbstring.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/compat/password.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/compat/standard.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/core/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/DB.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/DB_cache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/DB_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/DB_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/DB_query_builder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/DB_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/DB_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/cubrid/cubrid_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/cubrid/cubrid_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/cubrid/cubrid_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/cubrid/cubrid_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/cubrid/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/ibase/ibase_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/ibase/ibase_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/ibase/ibase_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/ibase/ibase_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/ibase/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mssql/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mssql/mssql_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mssql/mssql_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mssql/mssql_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mssql/mssql_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysql/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysql/mysql_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysql/mysql_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysql/mysql_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysql/mysql_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysqli/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysqli/mysqli_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysqli/mysqli_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysqli/mysqli_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/mysqli/mysqli_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/oci8/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/oci8/oci8_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/oci8/oci8_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/oci8/oci8_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/oci8/oci8_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/odbc/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/odbc/odbc_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/odbc/odbc_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/odbc/odbc_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/odbc/odbc_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/pdo_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/pdo_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/pdo_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/pdo_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_4d_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_4d_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_cubrid_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_cubrid_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_dblib_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_dblib_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_firebird_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_firebird_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_ibm_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_ibm_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_informix_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_informix_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_mysql_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_mysql_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_oci_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_oci_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_odbc_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_odbc_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_pgsql_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_pgsql_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlite_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlite_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/postgre/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/postgre/postgre_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/postgre/postgre_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/postgre/postgre_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/postgre/postgre_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite/sqlite_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite/sqlite_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite/sqlite_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite/sqlite_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite3/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite3/sqlite3_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite3/sqlite3_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite3/sqlite3_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlite3/sqlite3_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlsrv/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlsrv/sqlsrv_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlsrv/sqlsrv_forge.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlsrv/sqlsrv_result.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/drivers/sqlsrv/sqlsrv_utility.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/database/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/fonts/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/fonts/texb.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/array_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/captcha_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/cookie_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/date_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/directory_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/download_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/email_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/file_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/form_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/html_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/inflector_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/language_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/number_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/path_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/security_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/smiley_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/string_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/text_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/typography_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/url_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/helpers/xml_helper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/calendar_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/date_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/db_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/email_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/form_validation_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/ftp_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/imglib_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/migration_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/number_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/pagination_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/profiler_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/unit_test_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/english/upload_lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/language/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/Cache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/drivers/Cache_apc.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/drivers/Cache_dummy.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/drivers/Cache_file.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/drivers/Cache_memcached.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/drivers/Cache_redis.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/drivers/Cache_wincache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/drivers/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cache/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Calendar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Cart.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Email.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Encrypt.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Encryption.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Form_validation.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Ftp.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Image_lib.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Javascript.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Javascript/Jquery.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Javascript/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Migration.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Pagination.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Parser.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Profiler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/Session.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/SessionHandlerInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/Session_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/drivers/Session_database_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/drivers/Session_files_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/drivers/Session_memcached_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/drivers/Session_redis_driver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/drivers/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Session/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Trackback.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Typography.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Unit_test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Upload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/User_agent.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Xmlrpc.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Xmlrpcs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/Zip.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/system/libraries/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/.buildinfo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/DCO.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_downloads/ELDocs.tmbundle.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_images/appflowchart.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_images/smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/ajax-loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/basic.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/ci-icon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/comment-bright.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/comment-close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/comment.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/css/badge_only.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/css/citheme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/css/theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/doctools.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/down-pressed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/down.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/file.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/images/ci-icon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/jquery-3.1.0.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/js/oldtheme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/js/theme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/minus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/plus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/pygments.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/searchtools.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/underscore-1.3.1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/underscore.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/up-pressed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/up.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/_static/websupport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/changelog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/contributing/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/caching.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/call_function.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/configuration.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/connecting.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/db_driver_reference.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/examples.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/forge.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/helpers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/metadata.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/queries.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/query_builder.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/results.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/transactions.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/database/utilities.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/documentation/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/alternative_php.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/ancillary_classes.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/autoloader.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/caching.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/cli.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/common_functions.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/compatibility_functions.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/controllers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/core_classes.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/creating_drivers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/creating_libraries.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/credits.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/drivers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/environments.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/errors.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/helpers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/hooks.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/libraries.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/managing_apps.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/models.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/profiling.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/requirements.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/reserved_names.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/routing.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/security.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/styleguide.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/urls.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/views.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/general/welcome.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/genindex.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/array_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/captcha_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/cookie_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/date_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/directory_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/download_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/email_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/file_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/form_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/html_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/inflector_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/language_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/number_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/path_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/security_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/smiley_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/string_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/text_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/typography_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/url_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/helpers/xml_helper.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/downloads.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/troubleshooting.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_120.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_130.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_131.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_132.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_133.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_140.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_141.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_150.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_152.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_153.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_154.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_160.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_161.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_162.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_163.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_170.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_171.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_172.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_200.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_201.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_202.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_203.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_210.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_211.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_212.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_213.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_214.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_220.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_221.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_222.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_223.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_300.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_301.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_302.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_303.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_304.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_305.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_306.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_310.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_311.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_312.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_313.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_314.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_315.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_316.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_317.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrade_b11.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/installation/upgrading.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/benchmark.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/caching.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/calendar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/cart.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/config.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/email.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/encrypt.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/encryption.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/file_uploading.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/form_validation.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/ftp.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/image_lib.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/input.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/javascript.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/language.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/loader.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/migration.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/output.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/pagination.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/parser.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/security.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/sessions.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/table.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/trackback.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/typography.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/unit_testing.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/uri.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/user_agent.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/xmlrpc.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/libraries/zip.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/license.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/objects.inv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/overview/appflow.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/overview/at_a_glance.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/overview/features.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/overview/getting_started.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/overview/goals.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/overview/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/overview/mvc.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/search.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/searchindex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/tutorial/conclusion.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/tutorial/create_news_items.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/tutorial/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/tutorial/news_section.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PE_01/codeIgniter/user_guide/tutorial/static_pages.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/.editorconfig" afterPath="$PROJECT_DIR$/../codeIgniter/.editorconfig" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/.gitignore" afterPath="$PROJECT_DIR$/../codeIgniter/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/.htaccess" afterPath="$PROJECT_DIR$/../codeIgniter/application/.htaccess" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/cache/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/cache/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/autoload.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/autoload.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/config.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/config.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/constants.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/constants.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/database.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/database.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/doctypes.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/doctypes.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/foreign_chars.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/foreign_chars.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/hooks.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/hooks.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/memcached.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/memcached.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/migration.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/migration.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/mimes.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/mimes.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/profiler.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/profiler.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/routes.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/routes.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/smileys.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/smileys.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/config/user_agents.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/config/user_agents.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/controllers/Welcome.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/controllers/Welcome.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/controllers/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/controllers/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/core/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/core/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/helpers/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/helpers/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/hooks/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/hooks/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/language/english/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/language/english/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/language/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/language/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/libraries/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/libraries/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/logs/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/logs/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/models/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/models/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/third_party/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/third_party/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_404.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_404.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_db.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_db.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_exception.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_exception.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_general.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_general.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_php.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/error_php.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/cli/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_404.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_404.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_db.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_db.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_exception.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_exception.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_general.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_general.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_php.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/error_php.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/html/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/errors/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/errors/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/application/views/welcome_message.php" afterPath="$PROJECT_DIR$/../codeIgniter/application/views/welcome_message.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/composer.json" afterPath="$PROJECT_DIR$/../codeIgniter/composer.json" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/contributing.md" afterPath="$PROJECT_DIR$/../codeIgniter/contributing.md" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/index.php" afterPath="$PROJECT_DIR$/../codeIgniter/index.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/license.txt" afterPath="$PROJECT_DIR$/../codeIgniter/license.txt" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/readme.rst" afterPath="$PROJECT_DIR$/../codeIgniter/readme.rst" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/.htaccess" afterPath="$PROJECT_DIR$/../codeIgniter/system/.htaccess" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Benchmark.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Benchmark.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/CodeIgniter.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/CodeIgniter.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Common.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Common.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Config.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Config.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Controller.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Controller.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Exceptions.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Exceptions.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Hooks.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Hooks.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Input.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Input.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Loader.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Loader.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Log.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Log.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Model.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Model.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Output.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Output.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Router.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Router.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Security.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Security.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/URI.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/URI.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/Utf8.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/Utf8.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/compat/hash.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/compat/hash.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/compat/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/compat/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/compat/mbstring.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/compat/mbstring.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/compat/password.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/compat/password.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/compat/standard.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/compat/standard.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/core/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/core/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/DB.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/DB.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/DB_cache.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/DB_cache.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/DB_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/DB_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/DB_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/DB_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/DB_query_builder.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/DB_query_builder.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/DB_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/DB_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/DB_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/DB_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/cubrid_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/cubrid_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/cubrid_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/cubrid_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/cubrid_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/cubrid_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/cubrid_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/cubrid_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/cubrid/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/ibase_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/ibase_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/ibase_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/ibase_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/ibase_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/ibase_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/ibase_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/ibase_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/ibase/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/mssql_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/mssql_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/mssql_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/mssql_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/mssql_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/mssql_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/mssql_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mssql/mssql_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/mysql_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/mysql_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/mysql_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/mysql_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/mysql_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/mysql_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/mysql_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysql/mysql_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/mysqli_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/mysqli_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/mysqli_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/mysqli_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/mysqli_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/mysqli_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/mysqli_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/mysqli/mysqli_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/oci8_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/oci8_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/oci8_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/oci8_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/oci8_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/oci8_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/oci8_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/oci8/oci8_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/odbc_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/odbc_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/odbc_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/odbc_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/odbc_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/odbc_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/odbc_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/odbc/odbc_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/pdo_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/pdo_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/pdo_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/pdo_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/pdo_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/pdo_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/pdo_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/pdo_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_4d_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_4d_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_4d_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_4d_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_cubrid_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_cubrid_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_cubrid_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_cubrid_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_dblib_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_dblib_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_dblib_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_dblib_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_firebird_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_firebird_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_firebird_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_firebird_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_ibm_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_ibm_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_ibm_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_ibm_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_informix_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_informix_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_informix_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_informix_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_mysql_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_mysql_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_mysql_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_mysql_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_oci_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_oci_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_oci_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_oci_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_odbc_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_odbc_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_odbc_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_odbc_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_pgsql_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_pgsql_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_pgsql_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_pgsql_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlite_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlite_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlite_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlite_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/postgre_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/postgre_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/postgre_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/postgre_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/postgre_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/postgre_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/postgre_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/postgre/postgre_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/sqlite_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/sqlite_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/sqlite_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/sqlite_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/sqlite_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/sqlite_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/sqlite_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite/sqlite_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/sqlite3_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/sqlite3_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/sqlite3_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/sqlite3_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/sqlite3_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/sqlite3_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/sqlite3_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlite3/sqlite3_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/sqlsrv_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/sqlsrv_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/sqlsrv_forge.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/sqlsrv_forge.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/sqlsrv_result.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/sqlsrv_result.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/sqlsrv_utility.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/drivers/sqlsrv/sqlsrv_utility.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/database/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/database/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/fonts/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/fonts/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/fonts/texb.ttf" afterPath="$PROJECT_DIR$/../codeIgniter/system/fonts/texb.ttf" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/array_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/array_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/captcha_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/captcha_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/cookie_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/cookie_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/date_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/date_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/directory_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/directory_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/download_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/download_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/email_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/email_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/file_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/file_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/form_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/form_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/html_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/html_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/inflector_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/inflector_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/language_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/language_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/number_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/number_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/path_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/path_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/security_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/security_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/smiley_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/smiley_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/string_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/string_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/text_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/text_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/typography_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/typography_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/url_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/url_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/helpers/xml_helper.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/helpers/xml_helper.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/calendar_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/calendar_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/date_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/date_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/db_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/db_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/email_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/email_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/form_validation_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/form_validation_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/ftp_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/ftp_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/imglib_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/imglib_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/migration_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/migration_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/number_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/number_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/pagination_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/pagination_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/profiler_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/profiler_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/unit_test_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/unit_test_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/english/upload_lang.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/english/upload_lang.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/language/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/language/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/Cache.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/Cache.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_apc.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_apc.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_dummy.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_dummy.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_file.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_file.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_memcached.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_memcached.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_redis.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_redis.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_wincache.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/Cache_wincache.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/drivers/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cache/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Calendar.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Calendar.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cart.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Cart.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Email.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Email.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Encrypt.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Encrypt.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Encryption.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Encryption.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Form_validation.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Form_validation.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Ftp.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Ftp.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Image_lib.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Image_lib.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Javascript.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Javascript.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Javascript/Jquery.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Javascript/Jquery.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Javascript/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Javascript/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Migration.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Migration.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Pagination.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Pagination.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Parser.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Parser.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Profiler.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Profiler.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/Session.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/Session.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/SessionHandlerInterface.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/SessionHandlerInterface.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/Session_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/Session_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/Session_database_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/Session_database_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/Session_files_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/Session_files_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/Session_memcached_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/Session_memcached_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/Session_redis_driver.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/Session_redis_driver.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/drivers/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Session/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Table.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Table.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Trackback.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Trackback.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Typography.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Typography.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Unit_test.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Unit_test.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Upload.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Upload.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/User_agent.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/User_agent.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Xmlrpc.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Xmlrpc.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Xmlrpcs.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Xmlrpcs.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/Zip.php" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/Zip.php" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/system/libraries/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/system/libraries/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/.buildinfo" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/.buildinfo" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/DCO.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/DCO.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_downloads/ELDocs.tmbundle.zip" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_downloads/ELDocs.tmbundle.zip" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_images/appflowchart.gif" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_images/appflowchart.gif" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_images/smile.gif" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_images/smile.gif" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/ajax-loader.gif" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/ajax-loader.gif" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/basic.css" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/basic.css" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/ci-icon.ico" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/ci-icon.ico" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/comment-bright.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/comment-bright.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/comment-close.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/comment-close.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/comment.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/comment.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/css/badge_only.css" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/css/badge_only.css" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/css/citheme.css" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/css/citheme.css" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/css/theme.css" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/css/theme.css" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/doctools.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/doctools.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/down-pressed.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/down-pressed.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/down.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/down.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/file.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/file.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/images/ci-icon.ico" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/images/ci-icon.ico" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/jquery-3.1.0.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/jquery-3.1.0.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/jquery.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/jquery.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/js/oldtheme.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/js/oldtheme.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/js/theme.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/js/theme.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/minus.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/minus.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/plus.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/plus.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/pygments.css" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/pygments.css" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/searchtools.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/searchtools.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/underscore-1.3.1.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/underscore-1.3.1.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/underscore.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/underscore.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/up-pressed.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/up-pressed.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/up.png" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/up.png" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/websupport.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/_static/websupport.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/changelog.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/changelog.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/contributing/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/contributing/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/caching.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/caching.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/call_function.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/call_function.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/configuration.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/configuration.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/connecting.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/connecting.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/db_driver_reference.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/db_driver_reference.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/examples.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/examples.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/forge.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/forge.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/helpers.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/helpers.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/metadata.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/metadata.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/queries.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/queries.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/query_builder.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/query_builder.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/results.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/results.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/transactions.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/transactions.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/database/utilities.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/database/utilities.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/documentation/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/documentation/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/alternative_php.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/alternative_php.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/ancillary_classes.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/ancillary_classes.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/autoloader.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/autoloader.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/caching.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/caching.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/cli.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/cli.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/common_functions.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/common_functions.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/compatibility_functions.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/compatibility_functions.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/controllers.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/controllers.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/core_classes.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/core_classes.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/creating_drivers.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/creating_drivers.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/creating_libraries.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/creating_libraries.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/credits.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/credits.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/drivers.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/drivers.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/environments.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/environments.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/errors.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/errors.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/helpers.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/helpers.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/hooks.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/hooks.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/libraries.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/libraries.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/managing_apps.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/managing_apps.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/models.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/models.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/profiling.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/profiling.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/requirements.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/requirements.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/reserved_names.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/reserved_names.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/routing.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/routing.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/security.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/security.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/styleguide.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/styleguide.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/urls.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/urls.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/views.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/views.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/general/welcome.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/general/welcome.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/genindex.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/genindex.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/array_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/array_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/captcha_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/captcha_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/cookie_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/cookie_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/date_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/date_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/directory_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/directory_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/download_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/download_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/email_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/email_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/file_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/file_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/form_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/form_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/html_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/html_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/inflector_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/inflector_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/language_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/language_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/number_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/number_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/path_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/path_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/security_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/security_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/smiley_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/smiley_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/string_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/string_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/text_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/text_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/typography_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/typography_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/url_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/url_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/xml_helper.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/helpers/xml_helper.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/downloads.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/downloads.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/troubleshooting.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/troubleshooting.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_120.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_120.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_130.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_130.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_131.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_131.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_132.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_132.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_133.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_133.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_140.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_140.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_141.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_141.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_150.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_150.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_152.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_152.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_153.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_153.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_154.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_154.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_160.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_160.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_161.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_161.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_162.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_162.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_163.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_163.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_170.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_170.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_171.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_171.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_172.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_172.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_200.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_200.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_201.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_201.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_202.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_202.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_203.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_203.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_210.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_210.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_211.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_211.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_212.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_212.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_213.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_213.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_214.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_214.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_220.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_220.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_221.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_221.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_222.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_222.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_223.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_223.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_300.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_300.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_301.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_301.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_302.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_302.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_303.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_303.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_304.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_304.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_305.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_305.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_306.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_306.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_310.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_310.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_311.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_311.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_312.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_312.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_313.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_313.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_314.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_314.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_315.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_315.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_316.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_316.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_317.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_317.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_b11.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrade_b11.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrading.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/installation/upgrading.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/benchmark.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/benchmark.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/caching.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/caching.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/calendar.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/calendar.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/cart.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/cart.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/config.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/config.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/email.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/email.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/encrypt.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/encrypt.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/encryption.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/encryption.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/file_uploading.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/file_uploading.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/form_validation.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/form_validation.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/ftp.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/ftp.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/image_lib.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/image_lib.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/input.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/input.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/javascript.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/javascript.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/language.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/language.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/loader.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/loader.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/migration.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/migration.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/output.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/output.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/pagination.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/pagination.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/parser.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/parser.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/security.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/security.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/sessions.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/sessions.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/table.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/table.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/trackback.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/trackback.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/typography.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/typography.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/unit_testing.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/unit_testing.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/uri.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/uri.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/user_agent.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/user_agent.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/xmlrpc.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/xmlrpc.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/zip.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/libraries/zip.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/license.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/license.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/objects.inv" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/objects.inv" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/appflow.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/appflow.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/at_a_glance.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/at_a_glance.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/features.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/features.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/getting_started.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/getting_started.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/goals.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/goals.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/mvc.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/overview/mvc.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/search.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/search.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/searchindex.js" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/searchindex.js" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/conclusion.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/conclusion.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/create_news_items.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/create_news_items.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/index.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/index.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/news_section.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/news_section.html" />
+      <change beforePath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/static_pages.html" afterPath="$PROJECT_DIR$/../codeIgniter/user_guide/tutorial/static_pages.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="192.168.33.22" id="e2f3dbfd-2a19-484b-98e3-c514430d420c" name="vagrant" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/var/www/html" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PE01_Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE01_Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PE01_Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE01_Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PE01_Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE01_Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="568609a7-6894-490d-bce8-7e1c36200d88" name="Default" comment="" />
+      <created>1520869176260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520869176260</updated>
+      <workItem from="1520869177869" duration="51000" />
+      <workItem from="1520869259201" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="642000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3386905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
