@@ -10,7 +10,7 @@ class Books extends CI_Controller
 
     public function index()
     {
-        $data['Books'] = $this->Books_Model->get_books();
+        $data['books'] = $this->Books_Model->get_books();
 
         $data['titleHeader'] = 'Books Inventory';
         $this->load->view('books/index', $data); //in the index all the data shows
