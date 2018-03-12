@@ -21,11 +21,13 @@ class Books extends CI_Controller
     {
         $data['books_item'] = $this->Books_Model->get_books($id);
 
+        $data['titleHeader'] = 'Books Inventory';
+
         if (empty($data['books_item'])) {
             show_404();
         }
 
-        $data['title'] = $data['books_item']['title'];
+        $data['Title'] = $data['books_item']['Title'];
 
         $this->load->view('books/view', $data); //in the view only the book id shows
 

@@ -11,7 +11,4 @@
         <?php echo $books_item['ReleaseDate']; ?>
     </div>
 
-    <?php echo '<h2>'.$books_item['Title'].'</h2>';
-    echo $books_item['Author'];?>
-
 <?php endforeach; ?>
