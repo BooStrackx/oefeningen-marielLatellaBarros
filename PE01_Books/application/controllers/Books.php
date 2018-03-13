@@ -34,33 +34,34 @@ class Books extends CI_Controller
     }
 
 
-//    public function create()
-//    {
+    public function create()
+    {
 ////        load the form helper and form validation library => Rules for form validation are set!
-//        $this->load->helper('form');
-//        $this->load->library('form_validation');
+        $this->load->helper('form');
+        $this->load->library('form_validation');
 //
-//        $data['title'] = 'Create a news item';
+//        //TODO: createHeader is not passed to create.php
+        $data['titleHeader'] = 'Create a books item';
 //
-////      The set_rules() method takes three arguments; the name of the input field,
-////      the name to be used in error messages, and the rule.
-////      In this case the title and text fields are required.
-//        $this->form_validation->set_rules('title', 'Title', 'required');
-//        $this->form_validation->set_rules('text', 'Text', 'required');
-//
-//
-////      A condition that checks whether the form validation ran successfully.
-////      If it did not, the form is displayed, if it was submitted and passed all the rules, the model is called.
-////      After this, a view is loaded to display a success message.
-////      Create a view at application/views/news/success.php and write a success message.
-//        if ($this->form_validation->run() === FALSE) {
-//            $this->load->view('templates/header', $data);
-//            $this->load->view('news/create');
-//            $this->load->view('templates/footer');
-//
-//        } else {
-//            $this->news_model->set_news();
-//            $this->load->view('news/success');
-//        }
-//    }
+//      The set_rules() method takes three arguments; the name of the input field,
+//      the name to be used in error messages, and the rule.
+//      In this case the title and text fields are required.
+        $this->form_validation->set_rules('title', 'book title', 'required');
+        $this->form_validation->set_rules('author', 'book author', 'required');
+        $this->form_validation->set_rules('pages', 'amount of pages', 'required');
+        $this->form_validation->set_rules('releaseDate', 'print month-year', 'required');
+
+
+//      A condition that checks whether the form validation ran successfully.
+//      If it did not, the form is displayed, if it was submitted and passed all the rules, the model is called.
+//      After this, a view is loaded to display a success message.
+//      Create a view at application/views/books/successMessage.php and write a success message.
+        if ($this->form_validation->run() === FALSE) {
+            $this->load->view('books/create');
+
+        } else {
+            $this->Books_Model->set_books();
+            $this->load->view('books/successMessage');
+        }
+    }
 }
