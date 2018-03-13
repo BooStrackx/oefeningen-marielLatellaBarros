@@ -53,6 +53,10 @@ $route['default_controller'] = 'books/index';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
+$route['books/create'] = 'books/create';
+$route['books/(:any)'] = 'books/view/$1';
+$route['books'] = 'books';
+
 
 
 
