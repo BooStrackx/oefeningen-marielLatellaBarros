@@ -19,14 +19,15 @@ class Books_Model extends CI_Model {
     }
 
 
+    //'Title' is the name of the column in the database table. It is case insensitive! So it doesn't matter how it is written!
     public function set_books()
     {
         $data = array(
 
-            'title' => $this->input->post('Title'),
-            'author' => $this->input->post('Author'),
-            'pages' => $this->input->post('Pages'),
-            'releaseDate' => $this->input->post('ReleaseDate'),
+            'Title' => $this->input->post('title'),
+            'Author' => $this->input->post('author'),
+            'Pages' => $this->input->post('pages'),
+            'ReleaseDate' => $this->input->post('releaseDate'),
 
         );
 
