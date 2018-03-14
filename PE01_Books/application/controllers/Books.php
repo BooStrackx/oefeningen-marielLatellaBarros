@@ -36,11 +36,11 @@ class Books extends CI_Controller
 
     public function create()
     {
-////        load the form helper and form validation library => Rules for form validation are set!
+//        load the form helper and form validation library => Rules for form validation are set!
         $this->load->helper('form');
         $this->load->library('form_validation');
 //
-//        //TODO: createHeader is not passed to create.php
+
         $data['titleHeader'] = 'Create a books item';
 //
 //      The set_rules() method takes three arguments; the name of the input field,
@@ -53,15 +53,12 @@ class Books extends CI_Controller
 
 
 //      A condition that checks whether the form validation ran successfully.
-//      If it did not, the form is displayed, if it was submitted and passed all the rules, the model is called.
-//      After this, a view is loaded to display a success message.
-//      Create a view at application/views/books/successMessage.php and write a success message.
         if ($this->form_validation->run() === FALSE) {
-            $this->load->view('books/create');
+            $this->load->view('books/create', $data);
 
         } else {
             $this->Books_Model->set_books();
-            $this->load->view('books/successMessage');
+            $this->load->view('books/successMessage', $data);
         }
     }
 }
