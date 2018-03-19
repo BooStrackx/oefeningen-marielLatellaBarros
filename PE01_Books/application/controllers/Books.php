@@ -6,6 +6,9 @@ class Books extends CI_Controller
     {
         parent::__construct();
         $this->load->model('Books_Model');
+
+        // Load url helper
+        $this->load->helper('url');
     }
 
     public function index()

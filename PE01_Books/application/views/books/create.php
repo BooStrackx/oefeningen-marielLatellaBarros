@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/style.css">
+
 <h2><?php echo $titleHeader; ?></h2>
 
 <?php echo validation_errors(); ?>
@@ -30,5 +32,7 @@
 
 
 <input type="submit" name="submit" value="Create news item" />
+
+<?php echo base_url(); ?>
 
 </form>
