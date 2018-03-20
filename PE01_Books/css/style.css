@@ -1,3 +1,49 @@
-body {
-    background-color: cornflowerblue;
+* {
+    box-sizing: border-box;
+}
+
+html{
+    font-family: "Lucida Sans", sans-serif;
+}
+
+body{
+    width: 100%;
+    margin: auto;
+    padding: 15px;
+    float: left;
+}
+
+h2 {
+    background-color: #36d278;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+
+.main{
+
+}
+
+table.center{
+    alignment: center;
+    float: left;
+    width: 75%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+td{
+    border: 1px solid #36d278;
+    text-align: center;
+}
+
+th{
+    background-color: #36d278;
+    text-align: center;
+    color: #ffffff;
+}
+
+a{
+    width: 75%;
 }
