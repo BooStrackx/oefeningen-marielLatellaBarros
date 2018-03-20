@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="vagrant_PE01_Books" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="vagrant">
+  <configuration default="false" name="vagrant_PE01_Books" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="vagrant" start_url="/PE01_Books">
     <method />
   </configuration>
 </component>

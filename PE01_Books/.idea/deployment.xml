@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="vagrant_PE01_Books" deleteMissingItems="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="vagrant" deleteMissingItems="true">
     <serverData>
-      <paths name="vagrant_PE01_Books">
+      <paths name="vagrant">
         <serverdata>
           <mappings>
-            <mapping deploy="/var/www/html" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/var/www/html/PE01_Books" local="$PROJECT_DIR$" web="/PE01_Books" />
+            <mapping deploy="/var/www/html/voorbeelden" local="$PROJECT_DIR$/../voorbeelden" web="/voorbeelden" />
+            <mapping deploy="/var/www/html/oefeningen" local="$PROJECT_DIR$/../oefeningen" web="/oefeningen" />
           </mappings>
         </serverdata>
       </paths>

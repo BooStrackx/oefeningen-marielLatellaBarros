@@ -6,8 +6,6 @@ class Books extends CI_Controller
     {
         parent::__construct();
         $this->load->model('Books_Model');
-
-        // Load url helper
         $this->load->helper('url');
     }
 
@@ -16,7 +14,7 @@ class Books extends CI_Controller
         $data['books'] = $this->Books_Model->get_books();
 
         $data['titleHeader'] = 'Books Inventory';
-        $this->load->view('books/index', $data); //in the index all the data shows
+        $this->load->view('books/index', $data); //this view shows all the data from books
 
     }
 
@@ -32,7 +30,7 @@ class Books extends CI_Controller
 
         $data['Title'] = $data['books_item']['Title'];
 
-        $this->load->view('books/view', $data); //in the view only the book id shows
+        $this->load->view('books/view', $data); //ithis view shows only specofic items
 
     }
 
@@ -61,7 +59,8 @@ class Books extends CI_Controller
 
         } else {
             $this->Books_Model->set_books();
-            $this->load->view('books/successMessage', $data);
+            $this->index();
+            //$this->load->view('books/successMessage', $data);
         }
     }
 }
