@@ -9,5 +9,5 @@
       </server>
     </servers>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="5.3.0" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
 </project>
