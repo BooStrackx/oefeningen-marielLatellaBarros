@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="568609a7-6894-490d-bce8-7e1c36200d88" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/00_PHP_forms.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/00_forms.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/OOP/OOP_PHP.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/OOP/PointSample.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/OOP/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/OOP/appPoint.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/00_PHP.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/arrays.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/casting.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/controleSructuren.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/forEach.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/functies.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/hello.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/operaties.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/variabelen.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/PHP.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/bevestig4.php" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/04_bevestig.php" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/ingave.html" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/01_ingave.html" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/ingave2.html" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/02_ingave.html" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/ingave3.html" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/03_ingave.html" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/ingave4.html" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/04_ingave.html" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/ingave5.php" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/05_ingave.php" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/leescookie.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/math.php" afterPath="$PROJECT_DIR$/../voorbeelden/PHP/math.php" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/plaatscookie.php" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/06_cookiesSessions.php" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/sessions.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/som.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/verwerking.php" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/01_verwerking.php" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/verwerking2.php" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/02_verwerking.php" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/verwerking3.php" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/03_verwerking.php" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/verwerking4.php" afterPath="$PROJECT_DIR$/../voorbeelden/Forms/04_verwerking.php" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/verwijderCookie.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../voorbeelden/voorbeelden.php" afterPath="" />
-    </list>
+    <list default="true" id="568609a7-6894-490d-bce8-7e1c36200d88" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,21 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PointSample.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PointSample.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../voorbeelden/OOP/PointSample.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+            <state relative-caret-position="76">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appPoint.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="appPoint.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../voorbeelden/OOP/appPoint.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -266,22 +230,21 @@
       <workItem from="1521465591592" duration="306000" />
       <workItem from="1521486150370" duration="1542000" />
       <workItem from="1521487711377" duration="118000" />
-      <workItem from="1521487844528" duration="25160000" />
+      <workItem from="1521487844528" duration="25336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48077000" />
+    <option name="totallyTimeSpent" value="48253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="27" width="1628" height="940" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12672812" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2027027" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14496315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -289,7 +252,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35829493" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35829493" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -717,18 +680,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../voorbeelden/OOP/PointSample.php">
+    <entry file="file://$PROJECT_DIR$/../voorbeelden/OOP/appPoint.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../voorbeelden/OOP/appPoint.php">
+    <entry file="file://$PROJECT_DIR$/../voorbeelden/OOP/PointSample.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="76">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
       </provider>
