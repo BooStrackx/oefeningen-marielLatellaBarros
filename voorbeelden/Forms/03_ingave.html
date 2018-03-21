@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form arrays</title>
+</head>
+<body>
+<h1>Waarden die meerdere keren ingevuld moeten worden, kunnen als een array in $_GET en $_POST geplaatst worden.</h1>
+<h3>NOTE: The "name" of the input text must be the same for all entries, PLUS they have to have "[]".</h3>
+<pre>
+    < input type="text" name="vriend<strong>[]</strong>"><br/>
+    < input type="text" name="vriend<strong>[]</strong>"><br/>
+
+</pre>
+<form action="03_verwerking.php" method="post">
+    Vrienden:<br/>
+    <input type="text" name="vriend[]"><br/>
+    <input type="text" name="vriend[]"><br/>
+    <input type="text" name="vriend[]"><br/>
+    <input type="text" name="vriend[]"><br/>
+    <input type="text" name="vriend[]"><br/>
+    <input type="submit">
+</form>
+</body>
+</html>
