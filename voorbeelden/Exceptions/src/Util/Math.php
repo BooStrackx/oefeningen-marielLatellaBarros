@@ -2,7 +2,7 @@
 
 class Math
 {
-    public static function sum() {
+    public static function sum()  {
         $arguments = func_get_args();
         $sum = 0;
         foreach ($arguments as $argument) {

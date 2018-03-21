@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="568609a7-6894-490d-bce8-7e1c36200d88" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/Exceptions/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/Math.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/Exceptions/src/autoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/Exceptions/appDrawing.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/DrawingException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/Point.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/Math.php" afterPath="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/Math.php" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,31 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Math.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/Math.php">
+      <file leaf-file-name="appDrawing.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/appDrawing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <folding>
+                <element signature="e#59#77#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/app.php">
+      <file leaf-file-name="Point.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/Point.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/src/autoload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -78,11 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/application/models/Books_Model.php" />
-        <option value="$PROJECT_DIR$/application/views/books/index.php" />
-        <option value="$PROJECT_DIR$/application/views/books/view.php" />
-        <option value="$PROJECT_DIR$/application/views/books/create.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/../voorbeelden/PHP/hello.html" />
         <option value="$PROJECT_DIR$/../voorbeelden/PHP/variabelen.html" />
         <option value="$PROJECT_DIR$/../voorbeelden/PHP/variabelen.php" />
@@ -125,10 +113,15 @@
         <option value="$PROJECT_DIR$/../voorbeelden/OOP/IterableString/appIterableString.php" />
         <option value="$PROJECT_DIR$/../voorbeelden/package.json" />
         <option value="$PROJECT_DIR$/../voorbeelden/composer.json" />
-        <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/Math.php" />
         <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/autoload.php" />
         <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/src/autoload.php" />
         <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/app.php" />
+        <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/Math.php" />
+        <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/DrawingExeption.php" />
+        <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/src/appDrawing.php" />
+        <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/DrawingException.php" />
+        <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/Point.php" />
+        <option value="$PROJECT_DIR$/../voorbeelden/Exceptions/appDrawing.php" />
       </list>
     </option>
   </component>
@@ -199,6 +192,13 @@
               <item name="voorbeelden" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Exceptions" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Drawing" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PE01_Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voorbeelden" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Exceptions" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Util" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -230,6 +230,7 @@
       <recent name="$PROJECT_DIR$/../voorbeelden/OOP/PointSample" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing" />
       <recent name="$PROJECT_DIR$/../voorbeelden/OOP" />
       <recent name="$PROJECT_DIR$/../voorbeelden/PHP" />
       <recent name="$PROJECT_DIR$" />
@@ -277,12 +278,12 @@
       <workItem from="1521465591592" duration="306000" />
       <workItem from="1521486150370" duration="1542000" />
       <workItem from="1521487711377" duration="118000" />
-      <workItem from="1521487844528" duration="31930000" />
+      <workItem from="1521487844528" duration="33247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54847000" />
+    <option name="totallyTimeSpent" value="56164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="27" width="1628" height="940" extended-state="0" />
@@ -298,7 +299,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14880201" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35829493" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -323,38 +324,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/readme.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/books/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/books/create.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -711,18 +680,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/Math.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../oefeningen/OOP/Oefening01/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/src/Util/Math.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/appUtil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -735,10 +712,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/app.php">
+    <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/DrawingException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/appDrawing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#59#77#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../voorbeelden/Exceptions/src/Drawing/Point.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding />
         </state>
       </provider>
