@@ -13,7 +13,7 @@ final class PointSample {
 
     }
 
-    public function __destruct() //it gets called when the object doesn't exist anymore
+    public function __destruct() //it gets called when the object doesn't exist anymore unset($point)
     {
         self::$countInitialisations--;
     }
