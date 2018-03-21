@@ -15,3 +15,8 @@ echo "<br/>";
 $distance=$point1->calculateDistance($point2);
 print($distance);
 echo "<br/>";
+
+print ("Amount of points: " . PointSample::getCountInitialisations());
+echo "<br/>";
+unset($point2);
+print ("Amount of points after deleting point2: " . PointSample::getCountInitialisations());

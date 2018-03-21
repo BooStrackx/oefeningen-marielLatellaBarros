@@ -4,11 +4,22 @@ final class PointSample {
 
     private $x; private $y;
     const MAXIMUM_XY = 100;
+    private static $countInitialisations = 0;
 
     public function __construct($x, $y) {
         $this->setX($x);
         $this->setY($y);
+        self::$countInitialisations++;
 
+    }
+
+    public function __destruct() //it gets called when the object doesn't exist anymore
+    {
+        self::$countInitialisations--;
+    }
+
+    public static function getCountInitialisations() {
+        return self::$countInitialisations;
     }
     //TODO: check how magic method works in constructor
 //    //magic method
