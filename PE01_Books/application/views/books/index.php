@@ -4,10 +4,10 @@
 
 <div class="navigation">
     <form action="<?php echo base_url();?>books">
-        <button name="homeBtn" type="submit">Home</button>
+        <button name="homeBtn" class="button" type="submit">Home</button>
     </form>
     <form action="<?php echo base_url();?>books/create">
-        <button type="submit">Add new book</button>
+        <button type="submit"  class="button">Add new book</button>
     </form>
 </div>
 
