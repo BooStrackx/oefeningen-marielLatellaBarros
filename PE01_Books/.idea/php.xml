@@ -4,7 +4,10 @@
     <servers>
       <server host="192.168.33.22" id="e2f3dbfd-2a19-484b-98e3-c514430d420c" name="vagrant" use_path_mappings="true">
         <path_mappings>
-          <mapping local-root="$PROJECT_DIR$" remote-root="/var/www/html" />
+          <mapping local-root="$PROJECT_DIR$" remote-root="/Users/mariel/PhpstormProjects/WebAdvanced/PE01_Books" />
+          <mapping local-root="$PROJECT_DIR$/../PE02_SatisfactionSurvey" remote-root="/Users/mariel/PhpstormProjects/WebAdvanced/PE02_SatisfactionSurvey" />
+          <mapping local-root="$PROJECT_DIR$/../oefeningen" remote-root="/Users/mariel/PhpstormProjects/WebAdvanced/oefeningen" />
+          <mapping local-root="$PROJECT_DIR$/../voorbeelden" remote-root="/Users/mariel/PhpstormProjects/WebAdvanced/voorbeelden" />
         </path_mappings>
       </server>
     </servers>

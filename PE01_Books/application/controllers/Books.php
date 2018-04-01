@@ -58,7 +58,10 @@ class Books extends CI_Controller
             $this->load->view('books/create', $data);
 
         } else {
-            $this->Books_Model->set_books();
+            $this->Books_Model->set_books($this->input->post('title'),
+                                        $this->input->post('author'),
+                                        $this->input->post('pages'),
+                                        $this->input->post('releaseDate'));
             $this->index();
             //$this->load->view('books/successMessage', $data);
         }

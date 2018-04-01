@@ -5,7 +5,7 @@
 
 <?php echo validation_errors(); ?>
 
-<?php echo form_open('books/create'); ?>
+<?php echo form_open('books/create'); ?> <!-- form_open() inserts hidden csrf-->
 <table>
 
     <tr>

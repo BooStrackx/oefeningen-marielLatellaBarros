@@ -5,9 +5,10 @@
       <paths name="vagrant">
         <serverdata>
           <mappings>
-            <mapping deploy="/var/www/html/PE01_Books" local="$PROJECT_DIR$" web="/PE01_Books" />
+            <mapping deploy="/var/www/html/PE01_Books" local="$PROJECT_DIR$" web="/Books" />
             <mapping deploy="/var/www/html/voorbeelden" local="$PROJECT_DIR$/../voorbeelden" web="/voorbeelden" />
             <mapping deploy="/var/www/html/oefeningen" local="$PROJECT_DIR$/../oefeningen" web="/oefeningen" />
+            <mapping deploy="/var/www/html/PE02_SatisfactionSurvey" local="$PROJECT_DIR$/../PE02_SatisfactionSurvey" web="/SatisfactionSurvey" />
           </mappings>
         </serverdata>
       </paths>

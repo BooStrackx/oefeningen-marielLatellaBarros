@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="voorbeelden" />
     <orderEntry type="module" module-name="oefeningen" />
+    <orderEntry type="module" module-name="opdracht2-mavm2" />
   </component>
 </module>
