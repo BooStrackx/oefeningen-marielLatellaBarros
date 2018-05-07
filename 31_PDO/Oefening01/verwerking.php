@@ -3,7 +3,6 @@
 $database = $_POST['databaseValue'];
 $queryStatement = $_POST['queryTextArea'];
 
-
 if (stristr($queryStatement, 'drop') || stristr($queryStatement, 'delete') || stristr($queryStatement, 'truncate')) {
     echo "You do not have access to perform this action!";
 } else {

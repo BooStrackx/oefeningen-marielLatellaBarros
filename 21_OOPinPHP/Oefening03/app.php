@@ -7,11 +7,7 @@ $n = TextNode::makeNode("a");
 $n->addNode("b");
 $n->addNode("c");
 $n->printAll();
+$n->printTextNodeAt(0);
 
-try {
-    $n->printTextNodeAt(2);
-} catch (Exception $exception) {
-    print $exception->getMessage();
-}
 
 

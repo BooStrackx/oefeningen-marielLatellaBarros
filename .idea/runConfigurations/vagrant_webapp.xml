@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="vagrant_webapp" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" editBeforeRun="true" activateToolWindowBeforeRun="false" server_name="vagrant">
+  <configuration default="false" name="vagrant_webapp" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" activateToolWindowBeforeRun="false" server_name="vagrant">
     <method>
       <option name="FtpUpload" enabled="true">
         <server_id>2954209a-a1a5-4414-b558-9abaa1f435a6</server_id>

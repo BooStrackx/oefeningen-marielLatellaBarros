@@ -5,7 +5,7 @@
       <paths name="vagrant_sftp">
         <serverdata>
           <mappings>
-            <mapping deploy="/var/www/html" local="$PROJECT_DIR$/PE_01/codeIgniter" web="/" />
+            <mapping deploy="/var/www/html" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

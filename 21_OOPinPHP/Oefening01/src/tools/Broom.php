@@ -1,8 +1,9 @@
 <?php namespace tools;
 
-class Broom implements Tool {
-
-    public function doSomething() {
+class Broom implements Tool
+{
+    public function doSomething()
+    {
         print("Sweep");
     }
 }

@@ -3,7 +3,6 @@ $user = 'root';
 $password = 'root';
 $pdo = null;
 
-
 try {
     $pdo = new PDO("mysql:host=localhost", $user, $password);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -12,8 +11,6 @@ try {
 
     $databases = [];
     while ($row = $statement->fetch()) {
-//        print_r($row['Database']);
-//        echo "<br/>";
 
         $databases[] = $row['Database'];
     }
@@ -32,23 +29,24 @@ try {
     echo "</form>";
 
 
-
 } catch (PDOException $e) {
     print 'Exception!: ' . $e->getMessage();
 }
 $pdo = null;
 
 
-function createSelectBox($array){
+function createSelectBox($array)
+{
 
     $output = '<select name="databaseValue">';
     foreach ($array as $value) {
-        $output .= '<option value="' . $value .  '">' . $value . '</option>';
+        $output .= '<option value="' . $value . '">' . $value . '</option>';
     }
     $output .= '</select>';
     return $output;
 }
 
-function createTextArea() {
+function createTextArea()
+{
     echo "<textarea name=\"queryTextArea\" rows=\"5\" cols=\"40\"></textarea>";
 }

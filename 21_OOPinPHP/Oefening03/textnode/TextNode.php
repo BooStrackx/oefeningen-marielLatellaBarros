@@ -42,14 +42,12 @@ class TextNode
 
     public function printTextNodeAt($i)
     {
-        try {
-            //TODO: magic happens here
-            array_keys($this->text, $i);
-        } catch (\Exception $exception) {
-            throw new \Exception("number must be positive or as big as the amount of nodes");
+        if ($i == 0) {
+            print($this->text);
+        } else {
+            if ($this->nextNode != null) {
+                $this->nextNode->printTextNodeAt($i - 1);
+            }
         }
-        //TODO
-        return 1;
-
     }
 }

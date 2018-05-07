@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PE_01/.idea/CodeIgniter.iml" filepath="$PROJECT_DIR$/PE_01/.idea/CodeIgniter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oefeningen/OOP/.idea/OOP.iml" filepath="$PROJECT_DIR$/oefeningen/OOP/.idea/OOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oefeningen/PDO/.idea/PDO.iml" filepath="$PROJECT_DIR$/oefeningen/PDO/.idea/PDO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oefeningen/.idea/oefeningen.iml" filepath="$PROJECT_DIR$/oefeningen/.idea/oefeningen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/voorbeelden/.idea/voorbeelden.iml" filepath="$PROJECT_DIR$/voorbeelden/.idea/voorbeelden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oefeningen.iml" filepath="$PROJECT_DIR$/.idea/oefeningen.iml" />
     </modules>
   </component>
 </project>

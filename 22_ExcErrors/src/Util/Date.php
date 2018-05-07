@@ -6,7 +6,7 @@ use Date\DateException;
 class Date
 {
     private $day, $month, $year;
-    private static $MONTHS= array('jan', 'feb', 'maa', 'apr', 'mei', 'jun', 'jul', 'aug', 'sep', 'okt', 'nov', 'dec'  );
+    private static $MONTHS = array('jan', 'feb', 'maa', 'apr', 'mei', 'jun', 'jul', 'aug', 'sep', 'okt', 'nov', 'dec');
 
     public function __construct($day = 1, $month = 1, $year = 2018)
     {
@@ -15,7 +15,7 @@ class Date
             $this->setMonth($month);
             $this->setYear($year);
         } catch (DateException $dateException) {
-            throw new DateException ("wrong argument\n",0,$dateException);
+            throw new DateException ("wrong argument\n", 0, $dateException);
         }
     }
 
@@ -64,6 +64,6 @@ class Date
 
     public function printMonth()
     {
-        print($this->day . '/' . self::$MONTHS[($this->month)-1] . '/' . $this->year . "\n");
+        print($this->day . '/' . self::$MONTHS[($this->month) - 1] . '/' . $this->year . "\n");
     }
 }

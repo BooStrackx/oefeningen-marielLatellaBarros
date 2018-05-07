@@ -1,5 +1,6 @@
 <?php namespace tools;
 
-interface Tool {
+interface Tool
+{
     public function doSomething();
 }

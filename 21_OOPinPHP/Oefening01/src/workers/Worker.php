@@ -1,6 +1,7 @@
 <?php namespace workers;
 
-interface Worker {
+interface Worker
+{
 
     public function work();
 }

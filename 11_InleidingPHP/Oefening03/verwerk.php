@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Verwerk</title>
-</head>
-<body>
-
 <?php
 require_once ('wiskunde.php');
 
@@ -17,7 +9,3 @@ if (ctype_digit($numberOutput) && ($numberOutput > 0)) {
 } else {
     echo "You entered a wrong input";
 }
-
-?>
-</body>
-</html>

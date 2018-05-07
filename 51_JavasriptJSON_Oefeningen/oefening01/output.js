@@ -1,13 +1,8 @@
-// (1) Maak een webtoepassing om een GET-request en een
-// POST-request uit te voeren naar jsonplaceholder.
-//     Maak gebruik van W3C-eventhandling en de fetch-api.
-//     https://github.com/typicode/jsonplaceholder#how-to
-
 window.addEventListener("load", handleWindowLoad);
 
 function handleWindowLoad() {
-    var btnJSONGet=document.getElementById("buttonGet");
-    var btnJSONPost=document.getElementById("buttonPost");
+    var btnJSONGet = document.getElementById("buttonGet");
+    var btnJSONPost = document.getElementById("buttonPost");
     btnJSONGet.addEventListener("click", handleGetJSON);
     btnJSONPost.addEventListener("click", handlePostJSON);
 }
@@ -19,8 +14,6 @@ function handleGetJSON() {
             console.log(json);
             writeOutput(JSON.stringify(json));
         });
-        // .then(json => writeOutput(JSON.stringify(json)))
-
 }
 
 function handlePostJSON() {
@@ -53,10 +46,9 @@ function handlePostJSON() {
     */
 }
 
-
-function writeOutput(text){
-    var textNode=document.createTextNode(text+"\n");
-    var output=document.getElementById("divOutput");
+function writeOutput(text) {
+    var textNode = document.createTextNode(text + "\n");
+    var output = document.getElementById("divOutput");
     output.innerHTML = '';
     output.appendChild(textNode);
 }
