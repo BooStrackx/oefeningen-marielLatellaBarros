@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="PhpProjectServersManager">
-    <servers>
-      <server host="192.168.33.22" id="0ec12c5c-831c-4f1e-8f6f-1ed89cb3ce2e" name="vagrant" use_path_mappings="true" />
-    </servers>
-  </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
-</project>
