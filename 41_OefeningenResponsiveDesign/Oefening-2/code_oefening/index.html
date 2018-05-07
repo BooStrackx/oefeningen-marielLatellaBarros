@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+    <head>
+        <title>titel</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+        <style type="text/css">
+		 /*plaats je code hier */
+
+        /*de pagina (<div id="page">) wordt gecentreerd getoond.*/
+        #page {
+            margin: auto;
+        }
+        /*- de img krijgt zijn grootte via max-width 100%*/
+        figure img {
+            max-width: 100%;
+        }
+
+        /*Als de browser breder dan 1200px is:*/
+
+        @media screen and (min-width: 1200px) {
+            /*- de pagina (<div id="page">) is vast 1200 px breed. -*/
+            #page {
+                width: 1200px;
+            }
+
+            /*de links worden op 1 rij getoond*/
+            #pagenavul li {
+                display: inline-block;
+                width: 12%;
+            }
+
+            /*- de aside wordt naast het article geplaatst*/
+            #articlecenter {
+                width: 70%;
+                float: left;
+            }
+
+            #asideright {
+                width: 15%;
+                float: right;
+            }
+        }
+
+         /*Als de breedte van de browser tussen 800px en 1200px ligt:*/
+         @media screen and (min-width:800px) and (max-width:1200px)  {
+             /*- de pagina (<div id="page">) is even breed als de browser*/
+             #page {
+                 width: auto;
+             }
+
+             /*- de links worden op 2 rijen getoond*/
+             #pagenavul li{
+                 width: 24%;
+                 display: inline-block;
+                 margin-top:0.2em;
+             }
+
+         }​
+
+
+         /*(4) Als de breedte van de browser tussen 400px en 800px ligt:*/
+         @media screen and (min-width:400px) and (max-width:799px) {
+             /*- de links worden op 4 rijen getoond*/
+             #page {
+                 width: auto;
+             }
+
+             #pagenavul li {
+                 width: 48%;
+                 /*display: inline-block;*/
+                 margin-top: 0.2em;
+             }
+
+             /*- de aside komt onder het article (zie onderstaande figuur)*/
+
+         }
+
+
+         /*Als de breedte van de browser kleiner is dan 400px*/
+         .toggle {
+             display: block;
+         }
+
+         @media screen and (max-width: 400px) {
+             /*Zorg ervoor dat je het menu kan in- en uitklappen via JQuery*/
+             .toggle {
+                 display: none;
+             }
+             #pagenav {
+                 display: block;
+             }
+         }
+
+
+            /*#page, #pageheader, #pagenav, #pagenavul, #articlecenter, #asideright{*/
+            #pageheader, #pagenav, #pagenavul, #articlecenter, #asideright{
+                margin:0;
+                padding:0;
+            }
+
+
+            #asideright{
+                width:28%;
+                padding-left:1%;
+
+            }
+
+            #pagefooter{
+                margin-top: 2em;
+            }
+
+            #pageheader{
+                border-bottom:black 3px solid;
+                border-top: black 3px solid;
+            }
+
+
+            #pageheader,  #pagenav{ 
+                margin-top:1em;
+                margin-bottom:1em;
+            }
+
+
+            #pageheader, #pagefooter{
+                text-align: center;
+            }
+            #pagenav li:hover{
+                background-color: #c2dfde;
+            }
+
+            .pagenavli{
+                border:black solid thin;
+                vertical-align: middle;
+                padding-top:0.8em;
+            }
+
+            .pagenava{
+                display:block;
+                margin:0;
+                padding:0;
+                width:100%;
+                height:2em;
+                text-decoration:none;
+                text-align: center;
+                color:black;
+            }
+
+        </style>
+
+
+    </head>
+    <body>
+    <div id="page">
+            <header id="pageheader"><h3><a class="pagenava" href="index.html">Lyonesse</a></h3></header>
+
+            <nav id="pagenav" class="toggle">
+                <ul id="pagenavul">
+                    <li class="pagenavli"><a class="pagenava" href="index.html">Lyonesse</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="a.html">Dahaut</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="b.html">North Ulfland</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="c.html">South Ulfland</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="d.html">Pomperol</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="e.html">Blaloc</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="f.html">Caduz</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="g.html">Troicinet</a></li>
+                </ul>
+            </nav>
+
+            <article id="articlecenter">
+		<h2>Article</h2>
+                <section><h3>Section 1</h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
+                    <figure>
+                        <img src="./img/lyonesse.png" alt="lyonesse" />
+                    </figure>
+                </section>
+                <section><h3>Section 2</h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</section>
+                <section><h3>Section 3</h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</section>
+            </article>
+
+            <aside id="asideright">
+                <h3>Aside</h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
+            </aside>
+
+            <footer id="pagefooter">&copy; jouw naam hier </footer>
+        </div>
+
+
+    <script>
+    $(document).ready(function() {
+    $('#pageheader').click(function(e) {
+    if($('#pagenav').is(':hidden') == true) {
+    $(this).toggleClass("active");
+    $('#pagenav').removeClass("toggle");
+    } else {
+    $(this).removeClass("active");
+    $('#pagenav').addClass("toggle");
+    }
+    e.preventDefault();
+    });
+    });
+    </script>
+
+
+    </body>
+</html>
+

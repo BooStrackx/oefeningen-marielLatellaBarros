@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>titel</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <style type="text/css">
+
+            #page, #pageheader, #pagenav, #pagenavul, #articlecenter, #asideright{
+                margin:0;
+                padding:0;
+            }
+
+
+            #page{
+                width:1200px;
+                margin:auto;
+            }
+
+            #articlecenter{
+                float:left;
+                width:70%;
+                padding-right:1%;
+            }
+
+            #asideright{
+                float:left;
+                width:28%;
+                padding-left:1%;
+
+            }
+
+            #pagefooter{
+                margin-top: 2em;
+                clear:both;
+            }
+
+            #pageheader{
+                border-bottom:black 3px solid;
+                border-top: black 3px solid;
+
+            }
+
+
+            #pageheader,  #pagenav{ 
+                margin-top:1em;
+                margin-bottom:1em;
+            }
+
+
+            #pageheader, #pagefooter{
+                text-align: center;
+            }
+            #pagenav li:hover{
+                background-color: #c2dfde;
+            }
+
+            .pagenavli{
+                border:black solid thin;
+                vertical-align: middle;
+                padding-top:0.8em;
+            }
+
+            .pagenava{
+                display:block;
+                margin:0;
+                padding:0;
+                width:100%;
+                height:2em;
+                text-decoration:none;
+                text-align: center;
+                color:black;
+            }
+
+
+            #articlecenter img{
+                height:auto;
+                max-width:100%;
+                height:auto;
+            }
+
+            .pagenavli{
+                display:inline-block;
+                width:12%;
+            }
+
+
+            @media screen and (max-width:1200px){
+                #page{
+                    margin:0;
+                    width:100%;
+                }
+                .pagenavli{
+                    width:24%;
+                    margin-top:0.2em;
+
+                }
+            }
+
+            @media screen and (max-width:800px){
+                .pagenavli{
+                    width:48%;
+                    margin-top:0.2em;
+                }
+
+                #articlecenter{
+                    float:none;
+                    width:100%;
+                    padding-right:0;
+                }
+
+                #asideright{
+                    float:none;
+                    width:100%;
+                    padding-left:0;
+                }
+
+            }
+
+
+            @media screen and (max-width:400px){
+                .pagenavli{
+                    width:100%;
+                    margin-top:0.2em;
+
+                }
+
+                #asideright{
+                    display:none;
+                }
+
+                figure{display:none} 
+
+            }
+        </style>
+
+
+    </head>
+    <body>
+        <div id="page">
+            <header id="pageheader"><h3>Lyonesse</h3></header>
+
+            <nav id="pagenav">
+                <ul id="pagenavul">
+                    <li class="pagenavli"><a class="pagenava" href="index.html">Lyonesse</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="a.html">Dahaut</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="b.html">North Ulfland</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="c.html">South Ulfland</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="d.html">Pomperol</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="e.html">Blaloc</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="f.html">Caduz</a></li>
+                    <li class="pagenavli"><a class="pagenava" href="g.html">Troicinet</a></li>
+                </ul>
+            </nav>
+
+            <article id="articlecenter">
+		<h2>Article</h2>
+                <section><h3>Section 1</h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
+                    <figure>
+                        <img src="./img/lyonesse.png" alt="lyonesse" />
+                    </figure>
+                </section>
+                <section><h3>Section 2</h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</section>
+                <section><h3>Section 3</h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</section>
+            </article>
+
+            <aside id="asideright">
+                <h3>Aside</h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
+            </aside>
+
+            <footer id="pagefooter">&copy; jouw naam hier </footer>
+        </div>
+    </body>
+</html>
+

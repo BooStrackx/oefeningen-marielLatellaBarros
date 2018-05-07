@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Util\\": "src/Util",
+      "Date\\": "src/Date"
+    }
+  }
+}
